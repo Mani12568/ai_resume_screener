@@ -1,3 +1,4 @@
+HEAD
 # AI Resume Screener
 
 A web application that automatically screens resumes and calculates a match percentage against a job description using AI and NLP.
@@ -28,3 +29,7 @@ A web application that automatically screens resumes and calculates a match perc
    ```bash
    git clone https://github.com/Mani12568/ai_resume_screener.git
 
+=======
+# ai_resume_screener
+AI-powered resume screening web app using flask and NPL
+>>>>>>> 154f0e0bce36a4f8bdca28d1699d3be19b6a3789
